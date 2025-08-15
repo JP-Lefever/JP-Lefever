@@ -1,8 +1,5 @@
-## Hi there i'm LEFEVER JP. Welcome to my page. 👋
+## Hi there i'm LEFEVER JP, Web Developer.  Welcome to my page. 👋
 
---
-
-# Jean-Philippe Lefever – Web Developer
 
 ## 🇬🇧 About Me
 
