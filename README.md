@@ -41,7 +41,7 @@ Je dirige ma propre entreprise dans le développement web spécialisée dans la 
 ---
 
 ## 📊 GitHub Stats
-[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JP-Lefever&theme=dracula&custom_title=LEFEVER%JP's%Contribution%Graph&bg_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JP-Lefever&theme=merko&custom_title=Lefever%20JP's%20Contribution%20Graph&line=ffd000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![Jean-Philippe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-Lefever&show_icons=true&theme=radical)
