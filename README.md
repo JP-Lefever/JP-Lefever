@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there i'm LEFEVER JP. Welcome to my page. 👋
 
 # Jean-Philippe Lefever – Web Developer
 
@@ -44,23 +44,8 @@ J’ai créé une micro-entreprise dans le développement web. Même si je n’a
 
 ## 📊 GitHub Stats
 
-![Jean-Philippe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Projects
-
-### [Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one)
-Short description of the project.  
-
-### [Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two)
-Short description of the project.  
-
-### [Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)
-Short description of the project.  
-
-*(Replace with your real repos and descriptions)*
+![Jean-Philippe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-Lefever&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Lefever&layout=compact&theme=radical)
 
 ---
 
