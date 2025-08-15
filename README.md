@@ -56,7 +56,7 @@ Je dirige ma propre entreprise dans le développement web spécialisée dans la 
 
 ## 🔗 Quick Links
 
-- 🌐 Website: [jplef.fr](https://jplef.fr)  
+- 🌐 Portfolio: [jplef.fr](https://jplef.fr)  
 - 🔗 LinkedIn: [Jean-Philippe Lefever](https://www.linkedin.com/in/jean-philippe-lefever/)  
 
 ---
