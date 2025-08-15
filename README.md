@@ -12,7 +12,7 @@ My technical expertise includes:
 
 I run my own web development company, specialized in the design and development of custom applications and websites.
 
-🌐 Website: [jplef.fr](https://jplef.fr)  
+🌐 Portfolio: [jplef.fr](https://jplef.fr)  
 🔗 LinkedIn: [Jean-Philippe Lefever](https://www.linkedin.com/in/jean-philippe-lefever/)
 
 ---
@@ -28,7 +28,7 @@ Mon expertise technique comprend :
 
 Je dirige ma propre entreprise dans le développement web spécialisée dans la conception et le développement d’applications et de sites web sur mesure.. 
 
-🌐 Site web : [jplef.fr](https://jplef.fr)  
+🌐 Portfolio : [jplef.fr](https://jplef.fr)  
 🔗 LinkedIn : [Jean-Philippe Lefever](https://www.linkedin.com/in/jean-philippe-lefever/)
 
 ---
@@ -36,7 +36,7 @@ Je dirige ma propre entreprise dans le développement web spécialisée dans la 
 ## 💻 Tech Stack
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) 
  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 
