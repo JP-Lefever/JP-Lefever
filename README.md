@@ -3,7 +3,7 @@
 
 ## 🇬🇧 About Me
 
-I am a passionate web developer, specialized in the JavaScript ecosystem. Driven by a love for learning, I continue to improve my skills every day, both independently and collaboratively.
+Passionate web developer and JavaScript ecosystem specialist, I fuel my curiosity by learning every day, either independently or by sharing my experiences with the community.
 
 My technical expertise includes:
 • JavaScript & TypeScript
@@ -19,7 +19,7 @@ I run my own web development company, specialized in the design and development 
 
 ## 🇫🇷 À propos de moi
 
-Je suis un développeur web passionné, spécialisé dans l’écosystème JavaScript. Passionné par l'apprentissage, je continue à me former chaque jour, seul et avec les autres. 
+Développeur web passionné et spécialiste de l’écosystème JavaScript, je nourris ma curiosité en apprenant chaque jour, seul ou en partageant mes expériences avec la communauté.
 
 Mon expertise technique comprend :  
 • JavaScript & TypeScript  
