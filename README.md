@@ -6,6 +6,7 @@
 Passionate web developer and JavaScript ecosystem specialist, I fuel my curiosity by learning every day, either independently or by sharing my experiences with the community.
 
 My technical expertise includes:
+
 • JavaScript & TypeScript
 
 • Node.js, React.js, Next.js, Express, SQL
@@ -24,6 +25,7 @@ I run my own web development company, specialized in the design and development 
 Développeur web passionné et spécialiste de l’écosystème JavaScript, je nourris ma curiosité en apprenant chaque jour, seul ou en partageant mes expériences avec la communauté.
 
 Mon expertise technique comprend :  
+
 • JavaScript & TypeScript  
 
 • Node.js, React.js, Next.js, Express, SQL
