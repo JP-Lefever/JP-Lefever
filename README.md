@@ -50,7 +50,7 @@ Je dirige ma propre entreprise dans le développement web spécialisée dans la 
 [![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JP-Lefever&theme=merko&custom_title=Lefever%20JP's%20Contribution%20Graph&line=ffd000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LEFEVER-JP&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JP-LEFEVER&theme=dark)](https://git.io/streak-stats)
 
 ---
 
